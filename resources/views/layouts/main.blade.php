@@ -27,7 +27,7 @@
 
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a href="/events/eventos" class="nav-link">Eventos</a>
+                            <a href="/" class="nav-link">Eventos</a>
                         </li>
 
                         <li class="nav-item">
